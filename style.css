@@ -1,10 +1,5 @@
-h1 {
-  font-size: 20px;
-  font-weight: normal;
-  margin-top: 5px;
-}
-
 .ptext {
   width: 500px;
-  margin-left: 50px;
+  padding-top: 25px
+  padding-left: 50px;
 }
